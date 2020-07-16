@@ -1,4 +1,6 @@
 ## Setup
+Requires Python 3.8+
+
 1) Add your Discord token to main.py
 2) Place your guild (server) ID in settings.py
 3) Add your role ID's to commands/roles.py
