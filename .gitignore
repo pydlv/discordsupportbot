@@ -1,0 +1,10 @@
+data.db
+data.db.bak
+data.db.dat
+data.db.dir
+__pycache__/
+venv/
+data.bak
+data.dat
+data.dir
+.idea/
